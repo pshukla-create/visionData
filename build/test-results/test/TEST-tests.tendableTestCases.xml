@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.tendableTestCases" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-05-23T13:53:43" hostname="Pratishtthas-MacBook-Air.local" time="9.472">
+  <properties/>
+  <testcase name="verifyLogo" classname="tests.tendableTestCases" time="0.024"/>
+  <testcase name="verifyMenusValue" classname="tests.tendableTestCases" time="0.033"/>
+  <testcase name="verifyRequestDemoButton" classname="tests.tendableTestCases" time="5.941"/>
+  <testcase name="verifyMarketingform" classname="tests.tendableTestCases" time="3.47"/>
+  <system-out><![CDATA[Value of Logo Tendable Logo
+Our Story Menu is present
+Our Solution Menu is present
+Why Tendable Menu is present
+Request A Demo button is enabled in home page
+Request A Demo button is active in our story page
+Request A Demo button is active in our solution page
+Request A Demo button is active in why tendable page
+Submit
+Error message: Sorry, there was an error submitting the form. Please try again.
+Assertion passed for error message
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

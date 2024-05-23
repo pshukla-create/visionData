@@ -1,0 +1,11 @@
+Value of Logo Tendable Logo
+Our Story Menu is present
+Our Solution Menu is present
+Why Tendable Menu is present
+.Request A Demo button is enabled in home page
+2Request A Demo button is active in our story page
+5Request A Demo button is active in our solution page
+5Request A Demo button is active in why tendable page
+Submit
+PError message: Sorry, there was an error submitting the form. Please try again.
+#Assertion passed for error message
